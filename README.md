@@ -3,7 +3,7 @@
 This repository contains two versions of the U-Net architecture for image segmentation tasks:
 
 1. **Original U-Net**: The classic U-Net model used for various segmentation tasks.
-2. **Enhanced U-Net with Batch Normalization**: An updated version with Batch Normalization layers added to improve training stability and performance.
+2. **Enhanced U-Net**: An updated version with Batch Normalization layers, Dropout layers and padding added to improve training stability and performance.
 
 ## Model Descriptions
 
