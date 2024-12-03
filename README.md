@@ -4,6 +4,8 @@ This repository contains two versions of the U-Net architecture for image segmen
 
 1. **Original U-Net**
 2. **Enhanced U-Net**
+3. **Attention U-Net**
+4. **ResAttention U-Net**
 
 ## Model Descriptions
 
