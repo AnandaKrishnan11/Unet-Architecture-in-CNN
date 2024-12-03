@@ -15,9 +15,8 @@ The original U-Net model is a convolutional neural network developed for biomedi
 ### Enhanced U-Net with Batch Normalization
 This model builds on the original U-Net by adding Batch Normalization layers, Dropout layers and padding after each convolutional layer. This modification helps the model learn more effectively and often results in improved accuracy.
 
-## Usage
+### Attention UNet
+An enhanced U-Net model incorporating attention mechanisms to improve focus on relevant spatial features, making it ideal for geospatial image segmentation tasks.
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/AnandaKrishnan11/unet-segmentation.git
-   cd unet-segmentation
+### ResAttention UNet
+A U-Net variant that combines residual connections and attention gates to boost feature extraction and localization, designed for complex geospatial datasets.
